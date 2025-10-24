@@ -5,7 +5,6 @@ import model.Graph;
 import java.util.*;
 
 public class KruskalAlgorithm {
-
     static class DisjointSet {
         private final Map<String, String> parent = new HashMap<>();
 
