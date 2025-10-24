@@ -5,7 +5,6 @@ import model.Graph;
 import java.util.*;
 
 public class PrimAlgorithm {
-
     public static Map<String, Object> run(Graph graph) {
         long start = System.currentTimeMillis();
         int operations = 0;
