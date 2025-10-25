@@ -1,7 +1,7 @@
-package algorithms;
+package main.java.algorithms;
 
-import model.Edge;
-import model.Graph;
+import main.java.model.Edge;
+import main.java.model.Graph;
 import java.util.*;
 
 public class PrimAlgorithm {
